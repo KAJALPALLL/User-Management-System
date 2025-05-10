@@ -1,0 +1,16 @@
+# pycache files
+__pycache__/
+
+# Virtual environment
+.env
+./env
+
+# Database
+*.sqlite3
+db.sqlite3
+
+# All migrations files
+./migrations
+migrations
+**/migrations/
+!**/migrations/__init__.py
